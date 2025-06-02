@@ -1,23 +1,10 @@
-<!-- Encabezado animado con ola y saludo -->
+<h1 align="center">¡Hola, soy Juan Prados Cantarero 👋 <img src="https://github.com/Juan-sys-code/Juan-sys-code/blob/main/4OKq.gif?raw=true" width="40" style="position: relative; top: 10px;" /></h1>
 
-<div align="center">
-
-  <img src="https://github.com/Juan-sys-code/Juan-sys-code/blob/main/4OKq.gif?raw=true" width="40" style="position: relative; top: 10px;" />
-  
-  <h1>¡Hola, soy Juan Prados Cantarero <img src="https://github.com/Juan-sys-code/Juan-sys-code/blob/main/4OKq.gif?raw=true" width="40" style="position: relative; top: 10px;" />
-</h1>
-  
-  <p>
-    💻 Desarrollador web y de aplicaciones móviles<br/>
-    🎨 Apasionado por el diseño, la accesibilidad y la innovación digital<br/>
-    🌍 Siempre buscando aprender y compartir mis conocimientos
-  </p>
-
-  <svg viewBox="0 0 1440 320">
-    <path fill="#0f172a" fill-opacity="1" d="M0,192L60,170.7C120,149,240,107,360,85.3C480,64,600,64,720,90.7C840,117,960,171,1080,181.3C1200,192,1320,160,1380,144L1440,128L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path>
-  </svg>
-
-</div>
+<p align="center">
+  💻 Desarrollador web y de aplicaciones móviles<br/>
+  🎨 Apasionado por el diseño, la accesibilidad y la innovación digital<br/>
+  🌍 Siempre buscando aprender y compartir mis conocimientos
+</p>
 
 ---
 

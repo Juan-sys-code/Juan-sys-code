@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola, soy Juan Prados Cantarero </h1>
-<img src="https://github.com/Juan-sys-code/Juan-sys-code/blob/main/waving_hand.gif?raw=true" width="40"/>
+<h1 align="center">¡Hola, soy Juan Prados Cantarero 👋</h1>
+
 <p align="center">
   💻 Desarrollador web y de aplicaciones móviles<br/>
   🎨 Apasionado por el diseño, la accesibilidad y la innovación digital<br/>

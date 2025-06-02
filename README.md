@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/Juan-sys-code/Juan-sys-code/blob/main/waving_hand.gif?raw=true" width="40" style="position: relative; top: 10px;" />
+  <img src="https://github.com/Juan-sys-code/Juan-sys-code/blob/main/4OKq.gif?raw=true" width="40" style="position: relative; top: 10px;" />
   
   <h1>¡Hola, soy Juan Prados Cantarero 👋</h1>
   

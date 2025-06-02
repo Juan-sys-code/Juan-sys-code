@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">¡Hola, soy [Tu Nombre] 👋</h1>
 
-<!--
-**Juan-sys-code/Juan-sys-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desarrollador web y de aplicaciones móviles<br/>
+  🎨 Apasionado por el diseño, la accesibilidad y la innovación digital<br/>
+  🌍 Siempre buscando aprender y compartir mis conocimientos
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy un desarrollador web y móvil con experiencia en la creación de **páginas web modernas, accesibles y funcionales**. Me encanta colaborar en proyectos que aporten valor a los usuarios y que supongan un reto para seguir creciendo como profesional.
+
+---
+
+## 💡 Tecnologías que utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,flutter,react,figma,github" />
+</p>
+
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** PHP, Node.js (en proceso de aprendizaje)  
+- **CMS:** WordPress  
+- **App Development:** Flutter (para apps multiplataforma)  
+- **Diseño:** Figma, herramientas de UI/UX  
+- **Control de versiones:** Git & GitHub  
+
+---
+
+## 🛠️ Proyectos destacados
+
+✨ **[Arselite Tecnificación de Porteros](https://ejemplo.com)**  
+Desarrollo web y app móvil para esta empresa deportiva, adaptando su identidad visual y facilitando el acceso a sus servicios.
+
+✨ **[Radio Marca Córdoba](https://ejemplo.com)**  
+Página web y app móvil para esta conocida emisora, con integración de contenido multimedia y un diseño centrado en la experiencia de usuario.
+
+*(¡Y muchos más en camino!)*
+
+---
+
+## 📫 Cómo contactar conmigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
+- 📧 [Correo electrónico](mailto:tuemail@dominio.com)  
+- 🌐 [Portafolio personal](https://tuportafolio.com) *(si lo tienes)*
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- **Next.js y React avanzado**  
+- **Mejorando mis habilidades de accesibilidad web (A11Y)**  
+- **Automatización de flujos de trabajo con herramientas no-code/low-code**  
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
+
+---
+
+## 🎯 Objetivo profesional
+
+Seguir desarrollando proyectos web y móviles que sean **útiles, eficientes y hermosos**. Busco siempre aprender de cada reto y compartir lo que voy descubriendo con la comunidad.
+
+---
+
+<p align="center">
+  <strong>¡Gracias por visitar mi perfil! 🚀</strong><br/>
+  😊 Si te interesa colaborar o compartir ideas, ¡no dudes en escribirme!
+</p>

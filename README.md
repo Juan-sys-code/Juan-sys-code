@@ -31,10 +31,13 @@ Soy un desarrollador web y móvil con experiencia en la creación de **páginas 
 
 ## 🛠️ Proyectos destacados
 
-✨ **[Arselite Tecnificación de Porteros](https://ejemplo.com)**  
+✨ **[SmartIA Marketing](http://smartiamarketing.com/)**  
 Desarrollo web y app móvil para esta empresa deportiva, adaptando su identidad visual y facilitando el acceso a sus servicios.
 
-✨ **[Radio Marca Córdoba](https://ejemplo.com)**  
+✨ **[Arselite Tecnificación de Porteros](http://arselitetecnificaciondeporteros.es/)**  
+Desarrollo web y app móvil para esta empresa deportiva, adaptando su identidad visual y facilitando el acceso a sus servicios.
+
+✨ **[Radio Marca Córdoba](https://radiomarcacordoba.blogomusas.es/)**  
 Página web y app móvil para esta conocida emisora, con integración de contenido multimedia y un diseño centrado en la experiencia de usuario.
 
 *(¡Y muchos más en camino!)*
@@ -43,9 +46,8 @@ Página web y app móvil para esta conocida emisora, con integración de conteni
 
 ## 📫 Cómo contactar conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
-- 📧 [Correo electrónico](mailto:tuemail@dominio.com)  
-- 🌐 [Portafolio personal](https://tuportafolio.com) *(si lo tienes)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-prados-cantarero-5222512a3/)  
+- 📧 [Correo electrónico](mailto:juanpracan@gmail.com)  
 
 ---
 

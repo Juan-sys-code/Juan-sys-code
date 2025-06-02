@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">¡Hola, soy Juan Prados Cantarero 👋</h1>
 
 <p align="center">
   💻 Desarrollador web y de aplicaciones móviles<br/>
